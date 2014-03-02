@@ -1,0 +1,18 @@
+OK
+#Element ajoute: pl1
+OK
+#Element ajoute: pl2
+OK
+#Element ajoute: pl3
+ERR
+#Un element geometrique nomme pl2 existe deja
+ERR
+#Parametres invalides
+OK
+#Element ajoute: pl4
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides

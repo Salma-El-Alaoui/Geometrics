@@ -1,0 +1,20 @@
+OK
+#Element ajoute: c1
+OK
+#Element ajoute: r1
+OK
+#Element ajoute: l1
+OK
+#Element ajoute: oa1
+OK
+#Element ajoute: oa2
+OK
+#Element ajoute: oa
+OK
+#oa deplace
+C c1 2 2 1
+L l1 2 2 2 2
+OA oa oa1 oa2
+OA oa1 c1 r1
+OA oa2 l1 r1
+R r1 2 2 2 2

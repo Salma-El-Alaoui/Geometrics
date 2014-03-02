@@ -1,0 +1,18 @@
+OK
+#Element ajoute: r1
+OK
+#Element ajoute: r2
+OK
+#Element ajoute: r3
+ERR
+#Un element geometrique nomme r2 existe deja
+ERR
+#Parametres invalides
+OK
+#Element ajoute: r4
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides

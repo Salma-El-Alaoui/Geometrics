@@ -1,0 +1,14 @@
+OK
+#Fichier charge
+C c1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 l1 r1
+PL pl1 1 1 1 1
+R r1 1 1 1 1
+OK
+#Modele cleared
+ERR
+#Le fichier contient au moins un objet agrege invalide.
+ERR
+#Le fichier contient au moins une commande ayant un nombre de parametres invalide.
+

@@ -1,0 +1,9 @@
+C c1 1 1 1
+R r1 1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 r1
+OA oa2 r1 l1
+OA oa oa1 oa2
+MOVE oa 1 1
+LIST
+EXIT

@@ -1,0 +1,26 @@
+ERR
+#L'element geometrique nomme c1 n'existe pas.
+OK
+#Element ajoute: c1
+C c1 1 1 1
+ERR
+#L'element geometrique nomme c2 n'existe pas.
+C c1 1 1 1
+OK
+#Element ajoute: r1
+OK
+#Element ajoute: l1
+C c1 1 1 1
+L l1 1 1 1 1
+R r1 1 1 1 1
+#Element c1 supprime
+OK
+ERR
+#L'element geometrique nomme c1 n'existe pas.
+L l1 1 1 1 1
+R r1 1 1 1 1
+#Element l1 supprime
+OK
+ERR
+#Parametres invalides
+R r1 1 1 1 1

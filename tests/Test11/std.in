@@ -1,0 +1,17 @@
+C c1 1 1 1
+MOVE c1 1 1
+LIST
+MOVE c1 -1 -1
+LIST
+R r1 1 1 1 1
+L l1 1 1 1 1
+PL pl1 1 1 1 1 1 1 1 1
+LIST
+MOVE r1 1 1
+MOVE l1 1 1
+MOVE pl1 1 1
+LIST
+MOVE aaa 1 1
+MOVE c1 1 1 1
+MOVE c1 1 a
+EXIT

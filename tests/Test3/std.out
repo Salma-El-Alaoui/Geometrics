@@ -1,0 +1,18 @@
+OK
+#Element ajoute: l1
+OK
+#Element ajoute: l2
+OK
+#Element ajoute: l3
+ERR
+#Un element geometrique nomme l2 existe deja
+ERR
+#Parametres invalides
+OK
+#Element ajoute: l4
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides

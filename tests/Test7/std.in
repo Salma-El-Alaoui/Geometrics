@@ -1,0 +1,15 @@
+C c1 1 1 1
+PL pl1 1 1 1 1 1 1 1 1
+LIST
+DELETE c1 pl1
+LIST
+C c1 1 1 1
+R r1 1 1 1 1
+L l1 1 1 1 1
+PL pl1 1 1 1 1 1 1
+LIST
+DELETE r1 l1
+LIST
+DELETE c1 pl1
+LIST
+EXIT

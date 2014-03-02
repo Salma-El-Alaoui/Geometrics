@@ -1,0 +1,37 @@
+OK
+#Fichier charge
+C c1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 l1 r1
+PL pl1 1 1 1 1
+R r1 1 1 1 1
+#Element c1 supprime
+OK
+#Element r1 supprime
+OK
+#Element l1 supprime
+OK
+#Element pl1 supprime
+#Element oa1 supprime
+OK
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+C c1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 l1 r1
+PL pl1 1 1 1 1
+R r1 1 1 1 1
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone

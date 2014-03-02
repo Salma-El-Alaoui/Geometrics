@@ -1,0 +1,15 @@
+OK
+#Fichier charge
+C c1 1 1 1
+L l1 1 1 1 1
+PL pl1 1 1 1 1 1 1 1 1
+R r1 1 1 1 1
+OK
+#Modele cleared
+ERR
+#Le fichier contient au moins deux elements ayant le meme nom.
+ERR
+#Le fichier contient au moins une commande ayant un type de parametre invalide.
+ERR
+#Le fichier contient au moins une commande ayant un nombre de parametres invalide.
+

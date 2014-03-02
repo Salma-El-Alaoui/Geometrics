@@ -1,0 +1,160 @@
+OK
+#Element ajoute: c1
+OK
+#Element ajoute: r2
+OK
+#Element ajoute: l3
+OK
+#Element ajoute: pl4
+OK
+#Element ajoute: c5
+OK
+#Element ajoute: r6
+OK
+#Element ajoute: l7
+OK
+#Element ajoute: pl8
+OK
+#Element ajoute: c9
+OK
+#Element ajoute: r10
+OK
+#Element ajoute: l11
+OK
+#Element ajoute: pl12
+OK
+#Element ajoute: c13
+OK
+#Element ajoute: r14
+OK
+#Element ajoute: l15
+OK
+#Element ajoute: pl16
+OK
+#Element ajoute: c17
+OK
+#Element ajoute: r18
+OK
+#Element ajoute: l19
+OK
+#Element ajoute: pl20
+C c1 1 1 1
+C c13 13 13 13
+C c17 17 17 17
+C c5 5 5 5
+C c9 9 9 9
+L l11 11 11 11 11
+L l15 15 15 15 15
+L l19 19 19 19 19
+L l3 3 3 3 3
+L l7 7 7 7 7
+PL pl12 12 12 12 12 12 12
+PL pl16 16 16 16 16
+PL pl20 20 20 20 20 20 20
+PL pl4 4 4 4 4 4 4
+PL pl8 8 8 8 8 8 8 8 8 8 8
+R r10 10 10 10 10
+R r14 14 14 14 14
+R r18 18 18 18 18
+R r2 2 2 2 2
+R r6 6 6 6 6
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Undone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+OK
+#Redone
+C c1 1 1 1
+C c13 13 13 13
+C c17 17 17 17
+C c5 5 5 5
+C c9 9 9 9
+L l11 11 11 11 11
+L l15 15 15 15 15
+L l19 19 19 19 19
+L l3 3 3 3 3
+L l7 7 7 7 7
+PL pl12 12 12 12 12 12 12
+PL pl16 16 16 16 16
+PL pl20 20 20 20 20 20 20
+PL pl4 4 4 4 4 4 4
+PL pl8 8 8 8 8 8 8 8 8 8 8
+R r10 10 10 10 10
+R r14 14 14 14 14
+R r18 18 18 18 18
+R r2 2 2 2 2
+R r6 6 6 6 6

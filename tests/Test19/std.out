@@ -1,0 +1,17 @@
+OK
+#Fichier charge
+C c1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 l1 r1
+PL pl1 1 1 1 1
+R r1 1 1 1 1
+OK
+#Undone
+OK
+#Redone
+C c1 1 1 1
+L l1 1 1 1 1
+OA oa1 c1 l1 r1
+PL pl1 1 1 1 1
+R r1 1 1 1 1
+

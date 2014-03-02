@@ -1,0 +1,34 @@
+OK
+#Element ajoute: c1
+OK
+#c1 deplace
+C c1 2 2 1
+OK
+#c1 deplace
+C c1 1 1 1
+OK
+#Element ajoute: r1
+OK
+#Element ajoute: l1
+OK
+#Element ajoute: pl1
+C c1 1 1 1
+L l1 1 1 1 1
+PL pl1 1 1 1 1 1 1 1 1
+R r1 1 1 1 1
+OK
+#r1 deplace
+OK
+#l1 deplace
+OK
+#pl1 deplace
+C c1 1 1 1
+L l1 2 2 2 2
+PL pl1 2 2 2 2 2 2 2 2
+R r1 2 2 2 2
+ERR
+#L'element aaa n'existe pas 
+ERR
+#Parametres invalides
+ERR
+#Parametres invalides

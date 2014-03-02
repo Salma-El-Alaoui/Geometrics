@@ -1,0 +1,8 @@
+LOAD test19.txt
+LIST
+UNDO
+LIST
+REDO
+LIST
+EXIT
+

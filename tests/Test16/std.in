@@ -1,0 +1,8 @@
+C c2 2 2 2
+R r2 2 2 2 2
+L l2 2 2 2 2
+SAVE test16-1.txt
+LOAD test15-1.txt
+SAVE test16-2.txt
+EXIT
+

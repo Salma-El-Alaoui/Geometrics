@@ -1,0 +1,11 @@
+C c1 1 1 1
+R r1 1 1 1 1
+OA oa1 c1 r1
+DELETE oa1
+LIST
+OA oa2 c1 r1
+DELETE c1
+LIST
+DELETE r1
+LIST
+EXIT

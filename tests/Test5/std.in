@@ -1,0 +1,13 @@
+C c1 1 1 1
+R r1 1 1 1 1
+L l1 1 1 1 1
+PL pl1 1 1 1 1 1 1 1 1
+OA oa1 c1 r1
+OA oa2 c1 r1 l1 pl1
+OA oa3 oa1 oa2
+OA oa4 l1 pl1 oa1
+OA oa2 c1
+OA oa5 c1 r1 123
+OA oa6
+OA 123 c1 r1
+EXIT

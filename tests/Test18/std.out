@@ -1,0 +1,56 @@
+OK
+#Element ajoute: c1
+OK
+#Element ajoute: r2
+OK
+#Element ajoute: l3
+OK
+#Element ajoute: pl4
+OK
+#Element ajoute: oa5
+C c1 1 1 1
+L l3 3 3 3 3
+OA oa5 c1 l3 pl4 r2
+PL pl4 4 4 4 4 4 4
+R r2 2 2 2 2
+OK
+#Undone
+C c1 1 1 1
+L l3 3 3 3 3
+PL pl4 4 4 4 4 4 4
+R r2 2 2 2 2
+OK
+#Undone
+C c1 1 1 1
+L l3 3 3 3 3
+R r2 2 2 2 2
+OK
+#Undone
+C c1 1 1 1
+R r2 2 2 2 2
+OK
+#Undone
+C c1 1 1 1
+OK
+#Undone
+OK
+#Redone
+C c1 1 1 1
+OK
+#Redone
+C c1 1 1 1
+R r2 2 2 2 2
+OK
+#Redone
+C c1 1 1 1
+L l3 3 3 3 3
+R r2 2 2 2 2
+OK
+#Redone
+C c1 1 1 1
+L l3 3 3 3 3
+PL pl4 4 4 4 4 4 4
+R r2 2 2 2 2
+OK
+#Redone
+

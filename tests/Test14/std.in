@@ -1,0 +1,8 @@
+LOAD test14-1.txt
+LIST
+CLEAR
+LIST
+LOAD test14-2.txt
+LOAD test14-3.txt
+LOAD test14-4.txt
+EXIT
