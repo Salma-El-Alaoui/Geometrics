@@ -1,0 +1,2 @@
+L'application Geometric est un éditeur qui permet de créer des formes géométriques et de les manipuler(ajout, déplacement, agrégation,suppression). Elle permet auusi d'enregistrer le modèle courant, de le vider, de faire des undo/redo.L'interaction avec l'éditeur se fait en mode console.
+
